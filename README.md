@@ -8,5 +8,4 @@ Técnica em Informática e graduanda em **Sistemas para Internet pelo IFRN** - I
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mellyssat7&show_icons=true&theme=dark&count_private=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mellyssat7&layout=compact&theme=dark)
